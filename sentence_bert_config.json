@@ -1,0 +1,7 @@
+{
+    "max_seq_length": 32768,
+    "do_lower_case": false,
+    "tokenizer_args": {
+        "padding_side": "left"
+    }
+}
